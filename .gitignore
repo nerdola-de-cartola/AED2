@@ -35,4 +35,4 @@
 *.pdf
 
 # Sub-project
-*/AVL_tree
+*.lnk
