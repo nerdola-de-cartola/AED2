@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Documents
+*.pdf
+
+# Sub-project
+*/AVL_tree
