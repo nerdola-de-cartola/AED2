@@ -33,6 +33,7 @@
 
 # Documents
 *.pdf
+*.docx
 
 # Sub-project
 *.lnk

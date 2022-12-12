@@ -48,7 +48,7 @@ void      BTreeInsert(PTreeNode * bTreeRoot, TTreeNode node);
 void      BTreeInsert_Iterative(PTreeNode * bTreeRoot, TTreeNode node);
 PTreeNode BTreeBiggestNodeOnRigth(PTreeNode *bTreeRoot);
 PTreeNode BTreeSmallestNodeOnLeft(PTreeNode *bTreeRoot); 
-void       BTreeRemoveNode(PTreeNode * bTreeRoot, TTreeNode node);
+void      BTreeRemoveNode(PTreeNode * bTreeRoot, TTreeNode node);
 PTreeNode BTreeSearch(PTreeNode bTreeRoot, unsigned int key);
 void      BTreePrefixTraversal(PTreeNode bTreeRoot);
 void      BTreeInfixTraversal(PTreeNode bTreeRoot);
